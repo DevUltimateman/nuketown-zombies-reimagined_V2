@@ -62,7 +62,7 @@
 #include maps\mp\_challenges;
 #include maps\mp\gametypes_zm\_weapons;
 #include maps\mp\_demo;
-#include maps\mp\gametypes_zm/\_globallogic_utils;
+#include maps\mp\gametypes_zm\_globallogic_utils;
 #include maps\mp\gametypes_zm\_spectating;
 #include maps\mp\gametypes_zm\_globallogic_spawn;
 #include maps\mp\gametypes_zm\_globallogic_ui;
